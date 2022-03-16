@@ -1,0 +1,20 @@
+{
+    "done": 
+    {
+        "id": "done",
+        "color": "#DFFFEC",
+        "title": "Splnené"
+    },
+    "in_progress": 
+    {
+        "id": "in_progress",
+        "color": "#FEFFE1",
+        "title": "Rozpracované"
+    },
+    "not_done": 
+    {
+        "id": "not_done",
+        "color": "#FFD9D9",
+        "title": "Nesplnené"
+    }
+}

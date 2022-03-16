@@ -1,0 +1,12 @@
+export { default as FormatAlignLeftIcon } from '@material-ui/icons/FormatAlignLeft';
+export { default as TimerIcon } from '@material-ui/icons/Timer';
+export { default as PlaceIcon } from '@material-ui/icons/Place';
+export { default as ScheduleIcon } from '@material-ui/icons/Schedule';
+export { default as IconButton } from '@material-ui/core/IconButton';
+export { default as CloseIcon } from '@material-ui/icons/Close';
+export { default as CreateIcon } from '@material-ui/icons/Create';
+export { default as FlagIcon } from '@material-ui/icons/Flag';
+export { default as TodayIcon } from '@material-ui/icons/Today';
+export { default as DeleteIcon } from '@material-ui/icons/Delete';
+export { default as PhoneIcon } from '@material-ui/icons/Phone';
+export { default as EmailIcon } from '@material-ui/icons/Email';
